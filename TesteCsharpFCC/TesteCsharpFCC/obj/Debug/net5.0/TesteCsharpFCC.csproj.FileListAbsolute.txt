@@ -1,0 +1,16 @@
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\bin\Debug\net5.0\TesteCsharpFCC.exe
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\bin\Debug\net5.0\TesteCsharpFCC.deps.json
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\bin\Debug\net5.0\TesteCsharpFCC.runtimeconfig.json
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\bin\Debug\net5.0\TesteCsharpFCC.runtimeconfig.dev.json
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\bin\Debug\net5.0\TesteCsharpFCC.dll
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\bin\Debug\net5.0\ref\TesteCsharpFCC.dll
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\bin\Debug\net5.0\TesteCsharpFCC.pdb
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\obj\Debug\net5.0\TesteCsharpFCC.csproj.AssemblyReference.cache
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\obj\Debug\net5.0\TesteCsharpFCC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\obj\Debug\net5.0\TesteCsharpFCC.AssemblyInfoInputs.cache
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\obj\Debug\net5.0\TesteCsharpFCC.AssemblyInfo.cs
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\obj\Debug\net5.0\TesteCsharpFCC.csproj.CoreCompileInputs.cache
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\obj\Debug\net5.0\TesteCsharpFCC.dll
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\obj\Debug\net5.0\ref\TesteCsharpFCC.dll
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\obj\Debug\net5.0\TesteCsharpFCC.pdb
+C:\Users\luiz.cruz\source\repos\TesteCsharpFCC\TesteCsharpFCC\obj\Debug\net5.0\TesteCsharpFCC.genruntimeconfig.cache
